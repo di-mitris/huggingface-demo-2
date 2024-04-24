@@ -10,3 +10,4 @@ pinned: false
 ---
 
 # huggingface-demo-2
+A huggingface spaces demo that looks up wikipedia articles and summarizes them.
