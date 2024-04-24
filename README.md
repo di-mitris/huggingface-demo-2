@@ -6,7 +6,7 @@ colorTo: red
 sdk: gradio
 sdk_version: 4.27.0
 app_file: app.py
-pinned: false
+pinned: true
 ---
 
 # huggingface-demo-2
